@@ -1,5 +1,4 @@
-### RN CLI Template (bare-bones)
-
+### RN CLI Template with simple react-navigation sample
 ## Description
 
 This is my version of the bare-bones RN template for starting a new project with react-native-web support.
